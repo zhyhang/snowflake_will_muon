@@ -168,6 +168,17 @@
 			<version>1.0.1</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.shinyhut</groupId>
+			<artifactId>vernacular</artifactId>
+			<version>1.14</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.hierynomus</groupId>
+			<artifactId>sshj</artifactId>
+			<version>0.34.0</version>
+		</dependency>
 
 	</dependencies>
 
